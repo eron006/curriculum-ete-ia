@@ -1,9 +1,45 @@
-# Curriculum profissional atualizado
-Modelo de curriculum gerado por IA dedicado ao workshop de Git e Github ministrado no ETE Ginasio Pernambuco. Com o objetivo de conseguir o primeiro emprego em TI.
+# Eron araujo
 
+## Informações de Contato
+- **E-mail:** eron_ar@yahoo.com.br
+- **Telefone:** 81 985587889
+- **LinkedIn:** [linkedin.com/in/joaodasilva](https://www.linkedin.com/in/eron_ar)
 
-### Contém 
-- Objetivo profissional
-- Experiência
-- Conhecimentos
+## Objetivo Profissional
+Desenvolvedor Web com experiência em front-end e back-end, buscando oportunidades desafiadoras em uma empresa inovadora.
+
+## Experiência Profissional
+### Desenvolvedor Web Sênior - Empresa XYZ
+- Desenvolvimento de aplicativos da web usando HTML, CSS, JavaScript e React.
+- Gerenciamento de bancos de dados MySQL e PostgreSQL.
+- Colaboração com a equipe de design na criação de interfaces de usuário intuitivas.
+
+### Analista de Sistemas - Empresa ABC
+- Manutenção e otimização de sistemas existentes.
+- Colaboração com a equipe de desenvolvimento para implementar novos recursos.
+
+## Educação
+### Bacharel em Ciência da Computação - Universidade ABC
+- Concluído em 2018.
+- GPA: 3.9
+
+## Habilidades Técnicas
+- HTML, CSS, JavaScript
+- React, Node.js
+- Banco de Dados: MySQL, PostgreSQL
+- Git
+
+## Idiomas
+- Português (nativo)
+- Inglês (avançado)
+
+## Projetos
+- [Projeto 1: Site Pessoal](https://github.com/juliovaleca/site-pessoal)
+- [Projeto 2: Aplicativo de Gerenciamento de Tarefas](https://github.com/juliovalenca/aplicativo-tarefas)
+
+## Interesses
+Desenvolvimento web, tecnologia, esportes ao ar livre.
+
+## Referências
+Disponíveis mediante solicitação.
 
